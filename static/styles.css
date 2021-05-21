@@ -1,0 +1,22 @@
+body{
+      background-color: rgb(96, 165, 245);
+}
+
+.container{
+      margin: 0px auto 30px;
+      border-radius: 10%;
+      background-color: rgb(240, 199, 145);
+      border: solid 5px rgb(19, 1, 1);
+      padding: 20px;
+      text-align: center;
+      width: 400px;
+}
+h1{
+      text-align: center;
+      line-height: 2em;
+}
+img {
+      margin: 30px 530px;
+      width: 300px;
+      height: 300px;
+}
