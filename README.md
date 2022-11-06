@@ -7,4 +7,4 @@ An app developed in time when covid vaccine was introduced in India ,to help to 
 ### Home Screen
 
 
-![demo](static/getVaccine - Google Chrome 06_11_2022 7_32_31 PM.png)
+![demo](./static/getVaccine - Google Chrome 06_11_2022 7_32_31 PM.png)
