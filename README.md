@@ -7,4 +7,4 @@
 ### Home Screen
 
 
-![demo screen](./static/getVaccine.png)
+![demo screen](./static/getVaccine-GoogleChrome06_11_20227_32_31 PM.png)
